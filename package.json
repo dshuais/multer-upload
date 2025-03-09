@@ -31,6 +31,8 @@
   },
   "devDependencies": {
     "@nestjs/cli": "^10.0.0",
+    "@nestjs/jwt": "^11.0.0",
+    "@nestjs/passport": "^11.0.5",
     "@nestjs/schematics": "^10.0.0",
     "@nestjs/serve-static": "^5.0.1",
     "@nestjs/testing": "^10.0.0",
